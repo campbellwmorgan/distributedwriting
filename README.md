@@ -26,6 +26,12 @@ In order to avoid editing text on the command line, you will need a git GUI (Gra
 
 A more in-depth tutorial on git is [here](https://try.github.io/levels/1/challenges/1).
 
+#### Simpler Alterative
+
+A simpler alternative to downloading and installing either the Git command line or SoureTree is to edit files directly on github.com
+
+[See this tutorial for text editing basics](https://help.github.com/articles/editing-files-in-your-repository/)
+
 ### Github.com
 
 Github is the online location where this "repository" will be stored. In order to contribute to this, you will be required to create
