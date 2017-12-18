@@ -19,9 +19,12 @@ It keeps a record of every change made to every file and records who did what.
 Each change is then "committed" to the shared repository. Each commit is verified by a "hash" which is a hexidecimal string
 that represents all text changes made at that point.
 
-It's highly recommended that you follow [this tutorial](https://try.github.io/levels/1/challenges/1).
 
 In order to avoid editing text on the command line, you will need a git GUI (Graphical User Interface). [Source Tree](https://www.sourcetreeapp.com/) is recommended.
+
+[This](https://www.youtube.com/watch?v=1lBdlh3AGSc) is a good introduction to using sourcetree and Git.
+
+A more in-depth tutorial on git is [here](https://try.github.io/levels/1/challenges/1).
 
 ### Github.com
 
